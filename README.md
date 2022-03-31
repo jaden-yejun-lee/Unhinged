@@ -7,17 +7,17 @@ The evil co-CEOs, Carey and David have become increasingly frustrated with today
 picture-filled dating apps and have decided to create a text-only dating app to help people focus
 on what’s really most important—compatibility. They want their app to have these basic
 features:
-  ● It must be able to support up to 100k members
-  ● Each member can have dozens of attribute-value pairs! For example, for the pairs 
+  - It must be able to support up to 100k members
+  - Each member can have dozens of attribute-value pairs! For example, for the pairs 
     "hobby" -> "nose hair braiding" and "occupation" -> "pet stylist", "hobby" would be an 
     attribute, and "nose hair braiding" would be its corresponding value, etc.
-  ● To identify compatible members, the Unhinged app needs to have a way to translate a 
+  - To identify compatible members, the Unhinged app needs to have a way to translate a 
     member's attribute-value pairs to a set of compatible attribute-value pairs. For example, 
     if a member searching for dates has an attribute-value pair of "hobby" -> "nose hair
     braiding", then this might be translated to a compatible attribute-value pair of "physical
     attribute" -> "long nose hair", since they'd likely want someone who has long nose hair as 
     a partner.
-  ● The ability to rank order all potential matches for a member by identifying the people with
+  - The ability to rank order all potential matches for a member by identifying the people with
     the most compatible attribute-value pairs to that member.
     
 Your job is to create 5 classes: 
