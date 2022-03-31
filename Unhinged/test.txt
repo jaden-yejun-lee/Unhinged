@@ -1,0 +1,34 @@
+Anisha
+anisha@gmail.com
+4
+likes,cookies
+likes,brownies
+likes,coding
+occupation,software engineer
+
+Tjader
+tjader@gmail.com
+3
+likes,baking
+hobby,weight training
+occupation,salesperson
+
+Hercumur
+hercumur@gmail.com
+3
+likes,baking
+likes,reviewing code
+occupation,QA engineer
+
+Angus
+angus@gmail.com
+2
+likes,baking
+occupation,QA engineer
+
+Andrea
+andrea@gmail.com
+3
+hobby,mahjong
+likes,reviewing code
+occupation,QA engineer

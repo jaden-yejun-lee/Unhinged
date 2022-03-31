@@ -1,0 +1,1341 @@
+Abdullah Fowler
+AbFow2483@charter.net
+13
+job,architect
+hobby,canyoneering
+hobby,slacklining
+hobby,painting
+hobby,painting
+trait,sly
+trait,incurious
+trait,excitable
+trait,unself-critical
+trait,vacuous
+trait,discouraging
+trait,disloyal
+trait,aloof
+
+
+Mordechai Hayes
+Q
+6
+job,accountant
+hobby,origami
+trait,narrow
+trait,quirky
+trait,pedantic
+trait,uncritical
+
+Titan Adkins
+TiAdkins81471@charter.net
+13
+job,librarian
+hobby,canyoneering
+hobby,martial arts
+hobby,sailing
+hobby,cosplaying
+trait,uncritical
+trait,silly
+trait,arbitrary
+trait,gloomy
+trait,insensitive
+trait,reactive
+trait,prejudiced
+trait,regretful
+
+Emilio Tyson
+EmiliTy3@charter.net
+7
+job,doctor
+hobby,surfing
+hobby,kayaking
+trait,reactive
+trait,discourteous
+trait,regretful
+trait,steely
+
+Leon Wallace
+LWall@sky.com
+6
+job,architect
+hobby,hiking
+hobby,running
+hobby,beatboxing
+trait,tall
+trait,grand
+
+Augustus Barrera
+AugustusBarr87744@charter.net
+5
+job,editor
+hobby,slacklining
+trait,dull
+trait,fawning
+trait,expedient
+
+Harvey Byrd
+HaByr5830@gmail.com
+7
+job,firefighter
+hobby,scrapbooking
+trait,puritanical
+trait,pharissical
+trait,dissolute
+trait,hesitant
+trait,crude
+
+Alfred Patel
+AlfrPate600@comcast.net
+12
+job,nurse
+hobby,scrapbooking
+hobby,mixology
+hobby,juggling
+trait,uncreative
+trait,eloquent
+trait,regimental
+trait,unimpressive
+trait,superstitious
+trait,narcissistic
+trait,argumentative
+trait,delicate
+
+Kobe Bryant
+KBry4643@aim.com
+10
+job,architect
+hobby,mixology
+trait,caring
+trait,unctuous
+trait,elegant
+trait,irritable
+trait,monstrous
+trait,fiery
+trait,vindictive
+trait,sedentary
+
+Cain Hardin
+CHar55@mac.com
+8
+job,psychologist
+hobby,mixology
+hobby,photography
+trait,egocentric
+trait,disorderly
+trait,agonizing
+trait,conceited
+trait,extrovert
+
+Wes Scott
+WesSco750@mail.com
+9
+job,editor
+hobby,pottery
+hobby,origami
+hobby,fishing
+trait,contemptible
+trait,arbitrary
+trait,extreme
+trait,creative
+trait,sadistic
+
+Odin Melton
+OdMelto44@outlook.com
+4
+job,lawyer
+hobby,rock climbing
+trait,opportunistic
+trait,airy
+
+Demetrius Cochran
+DCoc89@aol.com
+9
+job,lawyer
+hobby,improv
+hobby,poetry
+hobby,origami
+hobby,slacklining
+trait,assertive
+trait,mechanical
+trait,insecure
+trait,extravagant
+
+Alexander Bradley
+AlexandeBradle0757@earthlink.net
+11
+job,lecturer
+hobby,dancing
+hobby,photography
+hobby,running
+hobby,juggling
+hobby,wine tasting
+trait,mealymouthed
+trait,greedy
+trait,excitable
+trait,well-meaning
+trait,disputatious
+
+Colton Rowe
+ColtonRo3@comcast.net
+6
+job,architect
+hobby,writing
+hobby,origami
+hobby,photography
+hobby,kayaking
+trait,muddle-headed
+
+Garrett Moody
+GarreM685@outlook.com
+12
+job,doctor
+hobby,cosplaying
+hobby,improv
+hobby,magic
+hobby,gardening
+trait,scheming
+trait,weak-willed
+trait,ignorant
+trait,libidinous
+trait,stiff
+trait,superstitious
+trait,shy
+
+Eric Lopez
+ELopez748@mail.com
+3
+job,engineer
+hobby,poetry
+trait,biosterous
+
+Hakeem Gallagher
+HaGal@yahoo.com
+8
+job,janitor
+hobby,canyoneering
+hobby,chess
+hobby,puppetry
+hobby,swimming
+trait,tasteless
+trait,egocentric
+trait,inconsiderate
+
+Logan Christian
+LogChristia9@icloud.com
+4
+job,accountant
+hobby,mixology
+trait,agonizing
+trait,aloof
+
+Otto Lowery
+OttoL42@mac.com
+10
+job,janitor
+hobby,juggling
+trait,venal
+trait,uncharitable
+trait,mealymouthed
+trait,overimaginative
+trait,egocentric
+trait,cynical
+trait,neurotic
+trait,efficient
+
+Dion Sharpe
+DSh49@aim.com
+10
+job,curator
+hobby,fishing
+trait,grim
+trait,decadent
+trait,narrow
+trait,intolerant
+trait,dramatic
+trait,difficult
+trait,unself-critical
+trait,muddle-headed
+
+Atticus Jacobs
+AttiJac@cox.net
+10
+job,writer
+hobby,photography
+hobby,bowling
+trait,insecure
+trait,dissonant
+trait,brutal
+trait,condemnatory
+trait,discontented
+trait,melancholic
+trait,anal retentive
+
+Erik Barnett
+ErBar52@icloud.com
+13
+job,psychologist
+hobby,juggling
+hobby,martial arts
+hobby,poetry
+hobby,pottery
+trait,vulnerable
+trait,fixed
+trait,tall
+trait,calm
+trait,ritualistic
+trait,steely
+trait,fanciful
+trait,fiery
+
+Royal Moss
+RoyMo09@earthlink.net
+10
+job,engineer
+hobby,chess
+hobby,surfing
+hobby,astronomy
+hobby,sailing
+hobby,canyoneering
+trait,impractical
+trait,erratic
+trait,submissive
+trait,extrovert
+
+Jamal Welch
+JamalW3@ymail.com
+11
+job,doctor
+hobby,sailing
+hobby,cosplaying
+hobby,wine tasting
+hobby,photography
+hobby,woodworking
+trait,bland
+trait,argumentative
+trait,narrow
+trait,disrespectful
+trait,indulgent
+
+Jon Salinas
+JonSal1150@me.com
+7
+job,curator
+hobby,drawing
+hobby,magic
+hobby,ice skating
+trait,arbitrary
+trait,dissonant
+trait,callous
+
+Creed Ware
+CreW54@icloud.com
+13
+job,writer
+hobby,woodworking
+hobby,martial arts
+hobby,wine tasting
+hobby,cycling
+trait,misguided
+trait,irrational
+trait,power-hungry
+trait,uncharitable
+trait,insensitive
+trait,dishonest
+trait,naive
+trait,abrasive
+
+Robin Galloway
+RoG47966@yahoo.com
+10
+job,curator
+hobby,wine tasting
+trait,extrovert
+trait,dogmatic
+trait,narrow-minded
+trait,natty
+trait,crazy
+trait,ignorant
+trait,smart
+trait,graceless
+
+Lee Herring
+LeeHerring889@sky.com
+8
+job,salesperson
+hobby,beatboxing
+hobby,poker
+hobby,mixology
+hobby,poetry
+hobby,puppetry
+trait,nervous
+trait,indulgent
+
+Ezekiel Michael
+EMichael0@ymail.com
+8
+job,historian
+hobby,improv
+hobby,yoga
+hobby,video games
+trait,arbitrary
+trait,suspicious
+trait,malicious
+trait,naive
+
+Bishop Pitts
+BishopPitts3090@juno.com
+6
+job,lecturer
+hobby,canyoneering
+hobby,puppetry
+hobby,pottery
+hobby,painting
+trait,strong-willed
+
+Thaddeus Vega
+ThadVega249@msn.com
+10
+job,reporter
+hobby,painting
+hobby,kayaking
+hobby,photography
+hobby,dancing
+hobby,rock climbing
+trait,fearful
+trait,meddlesome
+trait,power-hungry
+trait,intolerant
+
+Marcelo Brown
+MarceloBrown1@earthlink.net
+6
+job,professor
+hobby,drawing
+hobby,swimming
+trait,miserable
+trait,predatory
+trait,resentful
+
+Wilson Oneil
+WiO57297@yahoo.com
+7
+job,historian
+hobby,video games
+hobby,sailing
+hobby,reading
+hobby,surfing
+hobby,cycling
+trait,false
+
+Landyn Hensley
+LanHensl4512@comcast.net
+14
+job,historian
+hobby,fishing
+hobby,gardening
+hobby,puppetry
+hobby,wine tasting
+hobby,scrapbooking
+trait,contemptible
+trait,prejudiced
+trait,willful
+trait,repentant
+trait,forgetful
+trait,dogmatic
+trait,muddle-headed
+trait,demanding
+
+Nicholas Chen
+NicholaChe953@hotmail.com
+6
+job,chef
+hobby,gaming
+hobby,reading
+trait,delicate
+trait,bizarre
+trait,presumptuous
+
+Aryan Schneider
+AryS69141@cox.net
+7
+job,electrician
+hobby,golfing
+trait,pharissical
+trait,cultured
+trait,messy
+trait,stupid
+trait,petty
+
+Antonio Holman
+AnHolma15222@me.com
+11
+job,doctor
+hobby,running
+hobby,canyoneering
+hobby,gaming
+trait,suspicious
+trait,small-thinking
+trait,inert
+trait,repressed
+trait,prejudiced
+trait,lazy
+trait,sly
+
+Ari Nichols
+ANicho8015@juno.com
+4
+job,editor
+hobby,surfing
+trait,disputatious
+trait,uncaring
+
+Magnus Watkins
+MaW31@aol.com
+14
+job,lawyer
+hobby,drawing
+hobby,mixology
+hobby,yoga
+hobby,cycling
+hobby,swimming
+trait,hesitant
+trait,anxious
+trait,grand
+trait,nervous
+trait,disturbing
+trait,sloppy
+trait,venal
+trait,flexible
+
+Jamie Saunders
+JSau@hotmail.com
+8
+job,firefighter
+hobby,dancing
+hobby,golfing
+hobby,wine tasting
+trait,suspicious
+trait,scornful
+trait,cold
+trait,bizarre
+
+Rory Watts
+RoryWa49@aim.com
+10
+job,professor
+hobby,juggling
+hobby,cosplaying
+hobby,bird watching
+hobby,beatboxing
+trait,compulsive
+trait,prim
+trait,disobedient
+trait,provocative
+trait,money-minded
+
+Damir Ingram
+DamIn214@me.com
+10
+job,accountant
+hobby,video games
+hobby,golfing
+hobby,scuba diving
+trait,imprudent
+trait,elegant
+trait,gloomy
+trait,slow
+trait,bizarre
+trait,false
+
+Caleb Brennan
+CBrennan5116@ymail.com
+12
+job,architect
+hobby,dancing
+hobby,mixology
+hobby,scrapbooking
+hobby,sailing
+hobby,rock climbing
+trait,procrastinating
+trait,confused
+trait,difficult
+trait,thievish
+trait,scornful
+trait,mannered
+
+Yosef Snow
+YoseSno9@zoho.com
+8
+job,janitor
+hobby,origami
+hobby,canyoneering
+hobby,photography
+hobby,hiking
+trait,reactive
+trait,sanctimonious
+trait,condemnatory
+
+Ernesto Schwartz
+ErnesSchw@mail.com
+14
+job,curator
+hobby,bird watching
+hobby,gaming
+hobby,camping
+hobby,reading
+hobby,scrapbooking
+trait,smart
+trait,insecure
+trait,uncritical
+trait,unhealthy
+trait,single-minded
+trait,dogmatic
+trait,meretricious
+trait,tasteless
+
+Elliot Vega
+ElliotVega17@juno.com
+12
+job,historian
+hobby,photography
+hobby,swimming
+hobby,gaming
+hobby,golfing
+hobby,poker
+trait,pugnacious
+trait,childish
+trait,complacent
+trait,false
+trait,ritualistic
+trait,negativistic
+
+Emerson Clayton
+EmersonClay3@earthlink.net
+13
+job,teacher
+hobby,poetry
+hobby,fishing
+hobby,poker
+hobby,camping
+hobby,drawing
+trait,abrupt
+trait,condemnatory
+trait,meretricious
+trait,dishonest
+trait,tense
+trait,muddle-headed
+trait,odd
+
+Collin Fisher
+CoFish1380@msn.com
+12
+job,librarian
+hobby,cosplaying
+hobby,scrapbooking
+hobby,photography
+trait,unreflective
+trait,indulgent
+trait,secretive
+trait,unprincipled
+trait,grand
+trait,steely
+trait,scheming
+trait,forgetful
+
+Zaire Dale
+ZairDale6049@icloud.com
+10
+job,professor
+hobby,skate boarding
+trait,mawkish
+trait,considerate
+trait,imprudent
+trait,delicate
+trait,disputatious
+trait,small-thinking
+trait,dirty
+trait,fawning
+
+Emmanuel Goodman
+EmmanuelG8@comcast.net
+10
+job,architect
+hobby,scuba diving
+hobby,hiking
+hobby,dancing
+hobby,scrapbooking
+trait,discourteous
+trait,foolish
+trait,desperate
+trait,complaintive
+trait,sloppy
+
+Enzo Slater
+EnSlat@yandex.com
+8
+job,engineer
+hobby,bird watching
+hobby,scrapbooking
+hobby,swimming
+hobby,bowling
+hobby,woodworking
+trait,mannered
+trait,sordid
+
+Scott Weiss
+SWeiss020@yandex.com
+11
+job,teacher
+hobby,juggling
+hobby,sailing
+trait,shortsighted
+trait,hedonistic
+trait,steely
+trait,gullible
+trait,small-thinking
+trait,superstitious
+trait,imprudent
+trait,tasteless
+
+Remy Franco
+ReFra@gmail.com
+8
+job,psychologist
+hobby,cosplaying
+hobby,slacklining
+hobby,hiking
+trait,paranoid
+trait,vindictive
+trait,vulnerable
+trait,vague
+
+Leonard Hooper
+LeonardHoo037@hotmail.com
+4
+job,janitor
+hobby,golfing
+hobby,drawing
+trait,reactionary
+
+Leroy Guy
+LeroGu26663@sky.com
+11
+job,salesperson
+hobby,scrapbooking
+hobby,skate boarding
+hobby,ice skating
+hobby,scuba diving
+hobby,origami
+trait,brittle
+trait,delicate
+trait,miserly
+trait,scornful
+trait,extravagant
+
+Jayceon Fletcher
+JayceoF3233@gmail.com
+5
+job,firefighter
+hobby,gardening
+hobby,rock climbing
+trait,crass
+trait,irritable
+
+Alaric Bryan
+AlariBr44@ymail.com
+12
+job,reporter
+hobby,paintball
+hobby,puppetry
+hobby,woodworking
+trait,reactive
+trait,indulgent
+trait,sanctimonious
+trait,provocative
+trait,ruined
+trait,crafty
+trait,disciplined
+trait,hidebound
+
+Gunnar VANG
+GunnVA41@gmail.com
+11
+job,salesperson
+hobby,reading
+hobby,skate boarding
+hobby,slacklining
+trait,uncaring
+trait,petty
+trait,disconcerting
+trait,imprudent
+trait,neurotic
+trait,abrupt
+trait,resentful
+
+Davis Weiss
+DaviWe087@inbox.com
+8
+job,lawyer
+hobby,poker
+hobby,mixology
+trait,discontented
+trait,agonizing
+trait,petty
+trait,secretive
+trait,neat
+
+Jaylen Hopper
+JaHoppe9@icloud.com
+10
+job,professor
+hobby,canyoneering
+hobby,origami
+hobby,poetry
+hobby,bird watching
+trait,venomous
+trait,miserly
+trait,childish
+trait,shy
+trait,insincere
+
+Lane Bernard
+LBer94@aol.com
+4
+job,unemployed
+hobby,gaming
+hobby,bird watching
+trait,dramatic
+
+Kamdyn Prince
+KamPrin1883@icloud.com
+6
+job,professor
+hobby,magic
+hobby,painting
+hobby,gaming
+hobby,astronomy
+trait,naive
+
+Frankie Vaughan
+FrankiVa422@yandex.com
+8
+job,editor
+hobby,woodworking
+hobby,canyoneering
+hobby,cosplaying
+hobby,drawing
+trait,silly
+trait,grand
+trait,vindictive
+
+Angel Wolfe
+AngWolf6@mail.com
+13
+job,psychologist
+hobby,yoga
+hobby,martial arts
+hobby,mixology
+hobby,puppetry
+hobby,paintball
+trait,sloppy
+trait,mannered
+trait,selfish
+trait,single-minded
+trait,insensitive
+trait,pretentious
+trait,presumptuous
+
+Alvin Hinton
+AlvinHin5@yandex.com
+6
+job,teacher
+hobby,hiking
+trait,unimpressive
+trait,cultured
+trait,pretentious
+trait,fickle
+
+Esteban Wilkins
+EW0592@gmail.com
+6
+job,lawyer
+hobby,golfing
+hobby,cycling
+trait,forgetful
+trait,abrupt
+trait,uncaring
+
+Keith Robles
+KeithRo442@gmail.com
+13
+job,architect
+hobby,pottery
+hobby,writing
+hobby,martial arts
+hobby,fishing
+hobby,golfing
+trait,vague
+trait,dull
+trait,unself-critical
+trait,rotund
+trait,prejudiced
+trait,callous
+trait,meretricious
+
+Luciano Hammond
+LuciHa9532@yandex.com
+10
+job,salesperson
+hobby,wine tasting
+hobby,writing
+trait,malicious
+trait,artificial
+trait,moody
+trait,eloquent
+trait,inhibited
+trait,venal
+trait,troublesome
+
+Kyng Gibbs
+KGib@charter.net
+6
+job,reporter
+hobby,video games
+hobby,poker
+hobby,yoga
+hobby,surfing
+trait,thoughtless
+
+Azrael Shaw
+AzraSha7731@charter.net
+10
+job,nurse
+hobby,magic
+hobby,scrapbooking
+trait,superficial
+trait,clumsy
+trait,secretive
+trait,unreliable
+trait,plodding
+trait,dissolute
+trait,softheaded
+
+Alex Jackson
+AlexJa64801@yahoo.com
+10
+job,salesperson
+hobby,photography
+hobby,rock climbing
+hobby,cycling
+trait,gloomy
+trait,extrovert
+trait,well-meaning
+trait,predatory
+trait,unpolished
+trait,suspicious
+
+Dior Ortiz
+DioOrtiz@outlook.com
+11
+job,professor
+hobby,poker
+hobby,cycling
+hobby,baking
+trait,unfriendly
+trait,brittle
+trait,uncooperative
+trait,reactionary
+trait,condemnatory
+trait,disrespectful
+trait,unreliable
+
+Lucca Mercer
+LucMercer852@me.com
+5
+job,librarian
+hobby,photography
+hobby,slacklining
+hobby,yoga
+trait,one-dimensional
+
+Gideon White
+GideWh809@charter.net
+5
+job,electrician
+hobby,origami
+hobby,poetry
+hobby,wine tasting
+trait,perverse
+
+Cayson Dillard
+CDi61452@mac.com
+12
+job,lecturer
+hobby,canyoneering
+hobby,martial arts
+hobby,magic
+hobby,mixology
+trait,disorganized
+trait,conceited
+trait,anal retentive
+trait,treacherous
+trait,mannerless
+trait,tasteless
+trait,lazy
+
+Wesley Cantrell
+WeCantrel015@sky.com
+3
+job,salesperson
+hobby,swimming
+trait,meretricious
+
+Silas Sheppard
+SilaSheppar527@ymail.com
+8
+job,nurse
+hobby,improv
+hobby,swimming
+hobby,reading
+hobby,gaming
+hobby,chess
+trait,paranoid
+trait,haughty
+
+Tate Knight
+TatKnig926@gmail.com
+10
+job,historian
+hobby,fishing
+hobby,running
+hobby,golfing
+hobby,ice skating
+hobby,gaming
+trait,misguided
+trait,dishonest
+trait,extrovert
+trait,opportunistic
+
+Asher Lamb
+AsLamb3221@yandex.com
+9
+job,janitor
+hobby,rock climbing
+hobby,bird watching
+hobby,poker
+hobby,puppetry
+trait,dissonant
+trait,perverse
+trait,moody
+trait,clumsy
+
+Ernesto Houston
+ErnestoHoust2846@zoho.com
+10
+job,psychologist
+hobby,pottery
+hobby,baking
+trait,smart
+trait,bald
+trait,fickle
+trait,dull
+trait,dependent
+trait,mealymouthed
+trait,fanciful
+
+Trent Howe
+TreHo3@gmail.com
+10
+job,professor
+hobby,pottery
+hobby,dancing
+hobby,origami
+trait,secretive
+trait,grim
+trait,superstitious
+trait,melancholic
+trait,nervous
+trait,vindictive
+
+Amari Nolan
+AmNo35@aol.com
+4
+job,nurse
+hobby,woodworking
+hobby,ice skating
+trait,narcissistic
+
+Simon Romero
+SiRomero5@juno.com
+13
+job,lawyer
+hobby,puppetry
+hobby,skate boarding
+hobby,drawing
+hobby,painting
+trait,one-dimensional
+trait,prim
+trait,fawning
+trait,foolish
+trait,bizarre
+trait,haughty
+trait,stupid
+trait,softheaded
+
+Evan Ryan
+EvanR03@outlook.com
+12
+job,librarian
+hobby,dancing
+hobby,paintball
+hobby,pottery
+trait,bewildered
+trait,elegant
+trait,caring
+trait,unimpressive
+trait,athletic
+trait,crass
+trait,paranoid
+trait,disorderly
+
+Gunner Craft
+GunnerCraft879@mac.com
+10
+job,unemployed
+hobby,running
+hobby,cycling
+trait,deceitful
+trait,lazy
+trait,pugnacious
+trait,envious
+trait,biosterous
+trait,unconvincing
+trait,destructive
+
+Adonis Olson
+AdoniO6950@aol.com
+8
+job,lawyer
+hobby,sewing
+hobby,kayaking
+hobby,mixology
+hobby,bowling
+trait,cold
+trait,reactionary
+trait,dirty
+
+Bryson Baird
+BryBair6@inbox.com
+9
+job,janitor
+hobby,cosplaying
+hobby,gardening
+hobby,skate boarding
+trait,disrespectful
+trait,angry
+trait,one-dimensional
+trait,fickle
+trait,elegant
+
+Rayan Kelly
+RayKelly97133@icloud.com
+5
+job,doctor
+hobby,hiking
+hobby,mixology
+hobby,bird watching
+trait,unpolished
+
+Sebastian Quinn
+SebastianQui0@msn.com
+7
+job,nurse
+hobby,gardening
+hobby,magic
+hobby,rock climbing
+hobby,bird watching
+trait,irascible
+trait,slow
+
+Nixon Mccoy
+NMccoy14240@aim.com
+6
+job,engineer
+hobby,dancing
+trait,secretive
+trait,disorganized
+trait,cowardly
+trait,elegant
+
+Damian Landry
+DamianL44@comcast.net
+12
+job,unemployed
+hobby,poetry
+hobby,gardening
+hobby,beatboxing
+trait,cold
+trait,frightening
+trait,mannered
+trait,miserable
+trait,hostile
+trait,devious
+trait,conceited
+trait,intolerant
+
+Blaise Dickerson
+BlaiDick80275@hotmail.com
+5
+job,engineer
+hobby,reading
+trait,sadistic
+trait,uncaring
+trait,repentant
+
+Kyle Estes
+KEste66@mac.com
+9
+job,writer
+hobby,improv
+hobby,surfing
+hobby,origami
+trait,unself-critical
+trait,prejudiced
+trait,vulnerable
+trait,hedonistic
+trait,phlegmatic
+
+Jaden Mills
+JadMill76519@aol.com
+4
+job,librarian
+hobby,bowling
+trait,angry
+trait,conformist
+
+Lionel Nash
+LiNa283@hotmail.com
+8
+job,firefighter
+hobby,video games
+hobby,baking
+hobby,scuba diving
+hobby,woodworking
+hobby,wine tasting
+trait,small-thinking
+trait,willful
+
+Connor Short
+ConnoSho9701@sky.com
+4
+job,writer
+hobby,yoga
+trait,faithless
+trait,creative
+
+Dakari Duran
+DakarDur7@me.com
+5
+job,nurse
+hobby,surfing
+trait,meddlesome
+trait,high-handed
+trait,fanatical
+
+Calvin Burt
+CalviB0@sky.com
+8
+job,historian
+hobby,scrapbooking
+trait,petty
+trait,tense
+trait,creative
+trait,lazy
+trait,disloyal
+trait,power-hungry
+
+Hector Ewing
+HectEw97@yahoo.com
+7
+job,firefighter
+hobby,yoga
+hobby,sailing
+hobby,reading
+hobby,photography
+trait,profligate
+trait,unself-critical
+
+Aries Rosario
+AriesRosari2@live.com
+7
+job,salesperson
+hobby,bowling
+trait,presumptuous
+trait,clumsy
+trait,tense
+trait,hateful
+trait,miserable
+
+Felipe Luna
+FelipeL@hotmail.com
+7
+job,architect
+hobby,poetry
+hobby,scuba diving
+hobby,paintball
+hobby,yoga
+hobby,magic
+trait,extrovert
+
+Carlos Rogers
+CRog733@cox.net
+11
+job,psychologist
+hobby,scuba diving
+hobby,improv
+hobby,canyoneering
+hobby,paintball
+trait,clumsy
+trait,mawkish
+trait,opinionated
+trait,offhand
+trait,frightening
+trait,reactive
+
+Aidan Morgan
+AidMorg51528@charter.net
+7
+job,teacher
+hobby,hiking
+hobby,painting
+trait,dishonest
+trait,shortsighted
+trait,troublesome
+trait,unrestrained
+
+Arturo Shields
+ArtS6@msn.com
+11
+job,doctor
+hobby,fishing
+hobby,astronomy
+hobby,scrapbooking
+trait,mannerless
+trait,obnoxious
+trait,selfish
+trait,flamboyant
+trait,small-thinking
+trait,steely
+trait,easily discouraged
+
+Nicholas Wright
+NichoWri02121@ymail.com
+8
+job,firefighter
+hobby,martial arts
+hobby,writing
+hobby,bird watching
+trait,disputatious
+trait,brittle
+trait,uncaring
+trait,sordid
